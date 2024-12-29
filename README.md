@@ -1,4 +1,4 @@
-## Olá! Me chamo Isabela Pinheiro Campagnollo!
+## Olá, me chamo Isabela Pinheiro Campagnollo!
 
 - 🔭 Sou estudante de Ciência da Computação na UVV! Estou no 4o período de 8!
 - 🌱 Estudando Python
