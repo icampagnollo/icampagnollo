@@ -2,7 +2,6 @@
 
 - 🔭 Sou estudante de Ciência da Computação na UVV! Estou no 4o período de 8!
 - 🌱 Estudando Python
-- 😄 Pronomes: Ela/Dela
 - ⚡ Sou extrovertida, faço amizades facilmente e adoro trabalhar em grupo!
 
 ##
