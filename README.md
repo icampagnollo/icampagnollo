@@ -14,6 +14,7 @@
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height ="30" width = "40"/>
   <img align="right" src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" height="200" width="200">
 </div>
 
