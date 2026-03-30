@@ -3,12 +3,6 @@
 - 🔭 Sou estudante de Ciência da Computação
 - 🌱 Estudando Python e Java :)
 
-##
-
-  <div>
-  <a href="https://github.com/icampagnollo">
-  </div>
-
 <div style="display: inline_block"><br>
   <img align="right" src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" height="200" width="200">
 </div>
