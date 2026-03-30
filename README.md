@@ -7,9 +7,7 @@
 
   <div>
   <a href="https://github.com/icampagnollo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icampagnollo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icampagnollo&layout=compact&langs_count=16&theme=jolly"/>
-</div>
+  </div>
 
 <div style="display: inline_block"><br>
   <img align="right" src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" height="200" width="200">
